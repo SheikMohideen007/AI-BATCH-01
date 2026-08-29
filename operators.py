@@ -36,7 +36,7 @@ print(age>18 and age<30) # TRUE + TRUE = TRUE
 print(age>18 or age<30)  # TRUE + FALSE = TRUE
 
 #TODO : not
-
+ 
 
 
 

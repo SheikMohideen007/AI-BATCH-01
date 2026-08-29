@@ -6,7 +6,7 @@ greetings = "Hi, this is pythons course."
 # print(greetings[25])
 # print(greetings[0:8]) #Hi, this
 # print(greetings[::-1])
-
+greetings[1]='I'
 
 
 

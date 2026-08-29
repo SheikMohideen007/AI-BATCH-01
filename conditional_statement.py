@@ -13,7 +13,7 @@ else:
 
 
 #TODO: voting system  (18 > vote < not eligible)  
-#TODO: switch (practice the 2 example)
+#TODO: switch (practice the 2)
 
 
 #Exam Grading system
