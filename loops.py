@@ -2,9 +2,9 @@
 # print('Hello world')
 # print('Hello world')
 
-# print('---------------------')
+# # print('---------------------')
 
-# string='hello' len(5) max_index(4)
+# # string='hello' len(5) max_index(4)
 
 # for i in range(10):
 #     print('Hello World : ',i)
@@ -33,6 +33,12 @@ i=0
 
 
 while(i<10):  # while loop executes until the conditions are met (TRUE)
-    print('the value of i is : ',i)
     i+=1
+    if(i==5):
+        continue
+    print('the value of i is : ',i)
     # i=i+1
+
+
+# break -> stops the execution on loops
+# continue -> skips the iteration [particular] of loops
