@@ -1,6 +1,6 @@
 import numpy as np
 
-numbers=[1,2,3,4,5]
+# numbers=[1,2,3,4,5]
 
 
 # numpy_array=np.array([1,2,3,4,5])
@@ -50,12 +50,12 @@ numbers=[1,2,3,4,5]
 
 
 #splitting
-numpy_array=np.array([1,2,3,4,5,6])
-print(np.split(numpy_array,3))
+# numpy_array=np.array([1,2,3,4,5,6])
+# print(np.split(numpy_array,3))
 
 #TODO : create a 2d dimension array -> hsplit(), vsplit()
 
 
 #statistical function
-#mean, median, max, min, sum
-marks=np.array([[70,80,90],[60,75,85]])
+# TODO : mean (avg), median (middle), max, min, sum
+# marks=np.array([[70,80,90],[60,75,85]])
